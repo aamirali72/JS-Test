@@ -165,3 +165,11 @@
 // var _break=12;
 // var _for=25;
 // var while2=58;
+
+// video 25 Case Sensitive & Camel Case
+
+var rose = "Hellow";
+var Rose = "Hellow";
+var rOSe = "Hellow";
+console.log(Rose);
+console.log(ROSE);
