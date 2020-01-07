@@ -13,3 +13,7 @@ for Agile Teams: https: //www.atlassian.com/software/jira
     https: //docs.google.com/presentation/d/1YLla1fSgT7i613xI4SlI9w4xSaFCu2KYZMuWqQXKv9I/edit#slide=id.g75f675e4d0_8_26
 
     https: //edward-designer.com/web/free-pmi-acp-exam-questions/
+
+    https: //drive.google.com/drive/folders/1-fIPuk8bm_-4toxj-hSR7oya7aTx-9K8
+
+    https: //www.youtube.com/user/TechGuyWeb/search?query=bootstrap
